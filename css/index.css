@@ -1,0 +1,9 @@
+div.xyz123.container { font-family: "arial narrow"; }
+div.xyz123.container span { display:inline-block; margin-right:10px }
+div.xyz123.container h1, div.xyz123.container h3 { margin-bottom: 0; margin-top: 0 }
+div.xyz123.container strong { color: #0d74b4;font-weight: bold }
+div.xyz123.container em.green { color: green }
+div.xyz123.container em.red { color: red }
+div.xyz123.container table { border: 1px solid silver }
+div.xyz123.container th { text-align: left; color: grey; font-weight:100 }
+div.xyz123.container td { text-align: center; color: grey }
